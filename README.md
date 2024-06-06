@@ -1,2 +1,3 @@
 # 6-June-python-basics
-Practice of basic python
+
+Practice of basics of python
